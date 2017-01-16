@@ -1,0 +1,1 @@
+Move-ClusterGroup -Name "SQL Server (ALWAYSON-C)" -Node ClusterNode1
